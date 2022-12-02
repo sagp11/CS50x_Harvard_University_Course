@@ -1,0 +1,18 @@
+sort1 uses: BUBBLE SORT
+
+How do you know?: In case of "sorted5000.txt", "sorted10000.txt", "sorted10000.txt" the execution
+time is for "sort1" is faster than "sort2" and "sort3" which gives the indication of Bubble sort
+algorithm running as it has lowest time complexity in best case scenario.
+
+sort2 uses: MERGE SORT
+
+How do you know?: In case of "random" and "reversed" text files, this algorithm has less execution
+time than "sort1" and "sort3", which a clear indication that "sort2" is a Merge Sort algorithm as
+Merge sort has lowest time complexity for worst case scenario.
+
+sort3 uses: SELECTION SORT
+
+How do you know?: We have already identified "sort2" as merge sort algorithm. Compared with "sort1"
+algoritm for "sorted" text we see that execution time for "sort3" is higher than "sort1", which
+indicates that it is following a Selection sort algorithm as the Selection sort has worse time
+complexity than Bubble sort in case of an already sorted array.
